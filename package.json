@@ -1,0 +1,16 @@
+{
+  "name": "coletor",
+  "version": "1.0.0",
+  "description": "coletar dados de sites de vendas",
+  "main": "index.js",
+  "author": "Jordão",
+  "license": "MIT",
+  "dependencies": {
+    "@types/puppeteer": "^5.4.4",
+    "axios": "^0.21.1",
+    "puppeteer": "^10.1.0"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
